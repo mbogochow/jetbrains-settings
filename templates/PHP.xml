@@ -1,0 +1,14 @@
+<templateSet group="PHP">
+  <template name="errprint" value="error_log(print_r($END$, true));" description="error_log with print_r" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
+  <template name="fori" value="for ($INDEX$ = 0; $INDEX$ &lt; $LIM$; $INDEX$++) {&#10;  $END$&#10;}" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="INDEX" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="LIM" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
+</templateSet>

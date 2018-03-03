@@ -1,0 +1,17 @@
+<templateSet group="user">
+  <template name="syserr" value="System.err.println(&quot;$SELECTION$&quot;);" description="System.err.println" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="logdebug" value="MyLogger.debug($SELECTION$);" description="MyLogger Debug" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="sysout" value="System.out.println(&quot;$SELECTION$&quot;);" description="System.out.println" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>

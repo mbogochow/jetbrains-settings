@@ -1,0 +1,25 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="fbca4fc1-0978-40b5-9957-bfca4bb354ef" name="gsa" url="http://gsa-v6-test.softwareforge.local:82">
+        <fileTransfer host="10.20.0.171" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/mbogochow" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="dfec5a29-955f-4352-98ce-0deaa00ae1e6" name="GSA" url="http://gsa-v6-test.softwareforge.local:82">
+        <fileTransfer port="0" mountedRoot="$USER_HOME$/code/gsa-voyager6" accessType="MOUNT" />
+      </webServer>
+      <webServer id="2c7199ca-3c8d-4a56-9c72-ec6a32ff87d4" name="denali-test-82" url="http://gsa-v6-test.softwareforge.local:82/">
+        <fileTransfer host="10.20.0.71" port="22" rootFolder="/home/mbogochow/test82.gsavoyager.com" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>

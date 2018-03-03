@@ -1,0 +1,13 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="script-test_00" type="JSON" />
+      <mapping ext="tpl" type="PHP" />
+      <mapping ext="vw" type="PLAIN_TEXT" />
+      <mapping ext="ab" type="PLAIN_TEXT" />
+      <mapping ext="pr" type="PLAIN_TEXT" />
+      <removed_mapping ext="tpl" type="Smarty" />
+      <mapping pattern="PerfOpWrapperEditCell" type="CLASS" />
+    </extensionMap>
+  </component>
+</application>

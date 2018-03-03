@@ -1,0 +1,66 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="Encoding">
+        <file url="PROJECT" charset="UTF-8" />
+      </component>
+      <component name="GradleLocalSettings">
+        <option name="modificationStamps">
+          <map>
+            <entry key="$USER_HOME$/IdeaProjects/master-real-time-search" value="2912884418592" />
+            <entry key="$USER_HOME$/IdeaProjects/newpointrobot" value="2922975324358" />
+            <entry key="$USER_HOME$/IdeaProjects/real-time-search" value="2918055553625" />
+            <entry key="$USER_HOME$/IdeaProjects/visualizer-real-time-search" value="2912890937682" />
+            <entry key="$USER_HOME$/tmp/network_discovery" value="2939425673574" />
+            <entry key="$USER_HOME$/tmp/trunk" value="2939430564896" />
+            <entry key="$USER_HOME$/tmp/trunk/java client" value="2939429167776" />
+            <entry key="$USER_HOME$/workspace/Curtiss-Wright/trunk/OpenHPEC Data Flow/java client" value="2935128200922" />
+            <entry key="$USER_HOME$/workspace/cts/IBTATests" value="2959864279762" />
+            <entry key="$USER_HOME$/workspace/eeprom-command-center/ecc" value="8859809512843" />
+            <entry key="$USER_HOME$/workspace/hpc-pm/java_client" value="2963325908298" />
+            <entry key="$USER_HOME$/workspace/openhpec-data-flow/java client" value="2934347325301" />
+            <entry key="$USER_HOME$/workspace/orig_cts/IBTATests" value="2968300724010" />
+            <entry key="$USER_HOME$/workspace/qsfp-eeprom-monitor/monitor" value="5895343627976" />
+            <entry key="$USER_HOME$/workspace/sfi-util" value="2946368660236" />
+          </map>
+        </option>
+        <option name="externalProjectsViewState">
+          <projects_view />
+        </option>
+      </component>
+      <component name="InspectionProjectProfileManager">
+        <option name="PROJECT_PROFILE" />
+        <version value="1.0" />
+      </component>
+      <component name="MavenImportPreferences">
+        <option name="generalSettings">
+          <MavenGeneralSettings>
+            <option name="mavenHome" value="Bundled (Maven 3)" />
+          </MavenGeneralSettings>
+        </option>
+      </component>
+      <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+      <component name="PropertiesComponent">
+        <property name="last_opened_file_path" value="$USER_HOME$/Downloads/visualvm_138/bin/visualvm" />
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+        <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>1.7 Oracle</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>
