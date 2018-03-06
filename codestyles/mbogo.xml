@@ -24,7 +24,7 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
-    <option name="IF_BRACE_FORCE" value="1" />
+    <option name="IF_BRACE_FORCE" value="3" />
   </codeStyleSettings>
   <codeStyleSettings language="PHP">
     <option name="IF_BRACE_FORCE" value="1" />
