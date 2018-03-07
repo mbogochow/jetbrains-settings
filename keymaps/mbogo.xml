@@ -18,6 +18,10 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt q" />
   </action>
   <action id="CopyElement" />
+  <action id="EditorAddOrRemoveCaret">
+    <mouse-shortcut keystroke="alt button1" />
+    <mouse-shortcut keystroke="button2" />
+  </action>
   <action id="EditorCloneCaretAbove">
     <keyboard-shortcut first-keystroke="alt up" />
     <keyboard-shortcut first-keystroke="shift alt up" />
@@ -34,6 +38,7 @@
   <action id="EditorNextWordInDifferentHumpsModeWithSelection">
     <keyboard-shortcut first-keystroke="shift ctrl alt right" />
   </action>
+  <action id="EditorPasteFromX11" />
   <action id="EditorPreviousWordInDifferentHumpsMode">
     <keyboard-shortcut first-keystroke="ctrl alt left" />
   </action>
@@ -59,7 +64,6 @@
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="ctrl b" />
     <mouse-shortcut keystroke="control button1" />
-    <mouse-shortcut keystroke="button2" />
     <keyboard-shortcut first-keystroke="f3" />
   </action>
   <action id="GotoNextError">
