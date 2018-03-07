@@ -1,1 +1,5 @@
-<code_scheme name="Default" />
+<code_scheme name="Default" version="173">
+  <SqlCodeStyleSettings>
+    <option name="KEYWORD_CASE" value="2" />
+  </SqlCodeStyleSettings>
+</code_scheme>
