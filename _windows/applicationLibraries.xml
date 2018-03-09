@@ -12,11 +12,6 @@
       <SOURCES />
     </library>
     <library name="Chart" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_Chart.js_2.7.1_Chart.js" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_Chart.js_2.7.1_Chart.js" />
       </CLASSES>
@@ -53,35 +48,31 @@
       <SOURCES />
     </library>
     <library name="loader" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_www.gstatic.com_charts_loader.js" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_www.gstatic.com_charts_loader.js" />
       </CLASSES>
       <SOURCES />
     </library>
     <library name="moment" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_moment.js_2.20.1_moment.js" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_moment.js_2.20.1_moment.js" />
       </CLASSES>
       <SOURCES />
     </library>
     <library name="pace" type="javaScript">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_pace_1.0.2_pace.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="Ply" type="javaScript">
       <properties>
         <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_pace_1.0.2_pace.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_rubaxa.github.io_Ply_Ply.min.js" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_pace_1.0.2_pace.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_rubaxa.github.io_Ply_Ply.min.js" />
       </CLASSES>
       <SOURCES />
     </library>
@@ -93,6 +84,17 @@
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_popper.js_1.12.9_umd_popper.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="Sortable" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_Sortable_1.6.0_Sortable.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_Sortable_1.6.0_Sortable.js" />
       </CLASSES>
       <SOURCES />
     </library>
