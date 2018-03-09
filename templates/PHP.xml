@@ -11,4 +11,17 @@
       <option name="PHP Statement" value="true" />
     </context>
   </template>
+  <template name="phpeq" value="&lt;?= $END$ ?&gt;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="JS_EXPRESSION" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="lang" value="&lt;?= $lang['$END$'] ?&gt;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
