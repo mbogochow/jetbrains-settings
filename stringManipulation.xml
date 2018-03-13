@@ -4,10 +4,11 @@
       <ColumnAlignerModel>
         <option name="separators">
           <list>
-            <option value="=" />
+            <option value="," />
             <option value="" />
           </list>
         </option>
+        <option name="spaceBefore" value="false" />
       </ColumnAlignerModel>
     </option>
   </component>
