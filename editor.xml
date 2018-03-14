@@ -4,12 +4,18 @@
     <option name="FONT_SCALE" value="1.75" />
   </component>
   <component name="EditorSettings">
-    <option name="USE_SOFT_WRAPS" value="" />
-    <option name="SHOW_BREADCRUMBS" value="false" />
-    <option name="IS_WHITESPACES_SHOWN" value="true" />
-    <option name="IS_LEADING_WHITESPACES_SHOWN" value="false" />
-    <option name="IS_INNER_WHITESPACES_SHOWN" value="false" />
-    <option name="ADDITIONAL_PAGE_AT_BOTTOM" value="true" />
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
+  </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
+    <pattern pattern=".*\btodo\b.*\bread\b.*" />
+    <pattern pattern=".*\btodo\b.*\bwrite\b.*" />
+    <filter name="reads">
+      <pattern index="2" />
+    </filter>
+    <filter name="writes">
+      <pattern index="3" />
+    </filter>
   </component>
 </application>
