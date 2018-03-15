@@ -14,6 +14,7 @@
   <action id="Compare.Selected">
     <keyboard-shortcut first-keystroke="shift ctrl alt q" />
   </action>
+  <action id="CopyElement" />
   <action id="EditorAddOrRemoveCaret">
     <mouse-shortcut keystroke="shift alt button1" />
     <mouse-shortcut keystroke="button2" />
@@ -103,6 +104,10 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt h" />
   </action>
   <action id="RerunTests" />
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="shift f10" />
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
   <action id="StringManipulation.AlignToColumns">
     <keyboard-shortcut first-keystroke="ctrl alt equals" />
   </action>
