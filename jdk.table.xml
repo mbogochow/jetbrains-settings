@@ -3,9 +3,14 @@
     <jdk version="2">
       <name value="1.8 Oracle" />
       <type value="JavaSDK" />
-      <version value="java version &quot;1.8.0_121&quot;" />
+      <version value="java version &quot;1.8.0_151&quot;" />
       <homePath value="/usr/lib/jvm/java-8-oracle" />
       <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/lib/jdkAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
         <classPath>
           <root type="composite">
             <root url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/charsets.jar!/" type="simple" />
@@ -31,6 +36,9 @@
             <root url="jar:///usr/lib/jvm/java-8-oracle/jre/lib/rt.jar!/" type="simple" />
           </root>
         </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
         <sourcePath>
           <root type="composite">
             <root url="jar:///usr/lib/jvm/java-8-oracle/src.zip!/" type="simple" />
@@ -46,6 +54,11 @@
       <version value="java version &quot;1.7.0_80&quot;" />
       <homePath value="/usr/lib/jvm/java-7-oracle" />
       <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/lib/jdkAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
         <classPath>
           <root type="composite">
             <root url="jar:///usr/lib/jvm/java-7-oracle/jre/lib/charsets.jar!/" type="simple" />
@@ -67,6 +80,11 @@
             <root url="jar:///usr/lib/jvm/java-7-oracle/jre/lib/rt.jar!/" type="simple" />
           </root>
         </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root url="http://docs.oracle.com/javafx/2/api/" type="simple" />
+          </root>
+        </javadocPath>
         <sourcePath>
           <root type="composite">
             <root url="jar:///usr/lib/jvm/java-7-oracle/src.zip!/" type="simple" />
@@ -81,6 +99,9 @@
       <version value="Python 2.7.11+" />
       <homePath value="/usr/bin/python2.7" />
       <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
         <classPath>
           <root type="composite">
             <root url="file:///usr/lib/python2.7" type="simple" />
@@ -97,6 +118,9 @@
             <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" type="simple" />
           </root>
         </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
         <sourcePath>
           <root type="composite" />
         </sourcePath>
@@ -108,18 +132,20 @@
       <type value="Python SDK" />
       <homePath value="/usr/bin/python3.4" />
       <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
         <classPath>
           <root type="composite">
-            <root url="file:///usr/lib/python3.4" type="simple" />
-            <root url="file:///usr/lib/python3.4/plat-x86_64-linux-gnu" type="simple" />
-            <root url="file:///usr/lib/python3.4/lib-dynload" type="simple" />
             <root url="file://$USER_HOME$/.local/lib/python3.4/site-packages" type="simple" />
-            <root url="file:///usr/local/lib/python3.4/dist-packages" type="simple" />
             <root url="file:///usr/lib/python3/dist-packages" type="simple" />
             <root url="file://$USER_HOME$/.IntelliJIdea2016.1/system/python_stubs/-1247971765" type="simple" />
             <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" type="simple" />
           </root>
         </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
         <sourcePath>
           <root type="composite" />
         </sourcePath>
@@ -132,6 +158,11 @@
       <version value="java version &quot;1.8.0-internal&quot;" />
       <homePath value="/opt/ibm/java-x86_64-80" />
       <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/lib/jdkAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
         <classPath>
           <root type="composite">
             <root url="jar:///opt/ibm/java-x86_64-80/jre/lib/aggressive.jar!/" type="simple" />
@@ -189,6 +220,9 @@
             <root url="jar:///opt/ibm/java-x86_64-80/jre/lib/xmldsigfw.jar!/" type="simple" />
           </root>
         </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
         <sourcePath>
           <root type="composite">
             <root url="jar:///opt/ibm/java-x86_64-80/src.zip!/" type="simple" />
