@@ -1,0 +1,7 @@
+<templateSet group="Kotlin">
+  <template name="serialversionuid" value="private static final long serialVersionUID = 1L;" description="Default serialVersionUID field" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>
