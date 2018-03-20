@@ -3,4 +3,7 @@
     <option name="USE_INSTANCEOF_ON_EQUALS_PARAMETER" value="true" />
     <option name="OPTIMIZE_IMPORTS_ON_THE_FLY" value="true" />
   </component>
+  <component name="DaemonCodeAnalyzerSettings">
+    <option name="SHOW_METHOD_SEPARATORS" value="true" />
+  </component>
 </application>
