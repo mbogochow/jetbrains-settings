@@ -1,0 +1,7 @@
+<templateSet group="JSP">
+  <template name="main" value="public static void main(final String[] args)&#10;{&#10;    $END$&#10;}" description="Main function" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>
