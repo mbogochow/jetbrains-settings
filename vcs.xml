@@ -7,11 +7,11 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/mbogochow/real-time-search.git" />
-          <option name="userName" value="" />
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="mbogochow" />
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
+    <option name="cloneParentDir" value="C:\Users\Michael\IdeaProjects" />
   </component>
 </application>
