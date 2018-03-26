@@ -7,41 +7,22 @@
       <component name="GradleLocalSettings">
         <option name="modificationStamps">
           <map>
-            <entry key="$USER_HOME$/IdeaProjects/master-real-time-search" value="2912884418592" />
-            <entry key="$USER_HOME$/IdeaProjects/newpointrobot" value="2922975324358" />
-            <entry key="$USER_HOME$/IdeaProjects/real-time-search" value="2918055553625" />
-            <entry key="$USER_HOME$/IdeaProjects/visualizer-real-time-search" value="2912890937682" />
-            <entry key="$USER_HOME$/tmp/network_discovery" value="2939425673574" />
-            <entry key="$USER_HOME$/tmp/trunk" value="2939430564896" />
-            <entry key="$USER_HOME$/tmp/trunk/java client" value="2939429167776" />
-            <entry key="$USER_HOME$/workspace/Curtiss-Wright/trunk/OpenHPEC Data Flow/java client" value="2935128200922" />
-            <entry key="$USER_HOME$/workspace/cts/IBTATests" value="2959864279762" />
-            <entry key="$USER_HOME$/workspace/eeprom-command-center/ecc" value="8859809512843" />
-            <entry key="$USER_HOME$/workspace/hpc-pm/java_client" value="2963325908298" />
-            <entry key="$USER_HOME$/workspace/openhpec-data-flow/java client" value="2934347325301" />
-            <entry key="$USER_HOME$/workspace/orig_cts/IBTATests" value="2968300724010" />
-            <entry key="$USER_HOME$/workspace/qsfp-eeprom-monitor/monitor" value="5895343627976" />
-            <entry key="$USER_HOME$/workspace/sfi-util" value="2946368660236" />
+            <entry key="$USER_HOME$/IdeaProjects/real-time-search" value="2913218300341" />
+            <entry key="$USER_HOME$/workspace/hpc-pm/java_client" value="2974039057914" />
+            <entry key="$USER_HOME$/workspace/minecraft/res" value="1501115528707" />
           </map>
         </option>
         <option name="externalProjectsViewState">
           <projects_view />
-        </option>
-        <option name="projectSyncType">
-          <map>
-            <entry key="$USER_HOME$/workspace/old_cts/IBTATests" value="PREVIEW" />
-            <entry key="$USER_HOME$/workspace/soft-forge/cts/cts" value="PREVIEW" />
-          </map>
         </option>
       </component>
       <component name="InspectionProjectProfileManager">
         <option name="PROJECT_PROFILE" />
         <version value="1.0" />
       </component>
-      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" />
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" default="true" />
       <component name="PropertiesComponent">
-        <property name="last_opened_file_path" value="$USER_HOME$/Downloads/visualvm_138/bin/visualvm" />
-        <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/bin/node" />
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
       </component>
       <component name="RunManager">
         <configuration default="true" type="Applet" factoryName="Applet">
@@ -84,6 +65,12 @@
           <envs />
           <patterns />
         </configuration>
+        <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+          <module name="" />
+          <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+          <option name="PROGRAM_PARAMETERS" />
+          <predefined_log_file id="idea.log" enabled="true" />
+        </configuration>
         <configuration default="true" type="Remote" factoryName="Remote">
           <option name="USE_SOCKET_TRANSPORT" value="true" />
           <option name="SERVER_MODE" value="false" />
@@ -118,21 +105,12 @@
           <properties />
           <listeners />
         </configuration>
-        <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-          <module name="" />
-          <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-          <option name="PROGRAM_PARAMETERS" />
-          <predefined_log_file id="idea.log" enabled="true" />
-        </configuration>
-      </component>
-      <component name="VcsContentAnnotationSettings">
-        <option name="myLimit" value="2678400000" />
       </component>
       <component name="masterDetails">
         <states>
           <state key="ProjectJDKs.UI">
             <settings>
-              <last-edited>1.8 Oracle</last-edited>
+              <last-edited>1.8</last-edited>
               <splitter-proportions>
                 <option name="proportions">
                   <list>

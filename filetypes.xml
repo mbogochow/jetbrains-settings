@@ -1,16 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="m" type="C++" />
-      <mapping pattern="script-test_00" type="JSON" />
-      <mapping ext="tpl" type="PHP" />
-      <mapping ext="pr" type="PLAIN_TEXT" />
-      <mapping ext="obj" type="PLAIN_TEXT" />
-      <mapping ext="ab" type="PLAIN_TEXT" />
-      <mapping ext="vw" type="PLAIN_TEXT" />
-      <mapping ext="mat" type="PLAIN_TEXT" />
-      <removed_mapping ext="tpl" approved="true" type="Smarty" />
-      <mapping pattern="PerfOpWrapperEditCell" type="CLASS" />
+      <mapping pattern="BarChartSample" type="CLASS" />
     </extensionMap>
   </component>
 </application>
