@@ -23,11 +23,9 @@
     <mouse-shortcut keystroke="button2" />
   </action>
   <action id="EditorCloneCaretAbove">
-    <keyboard-shortcut first-keystroke="alt up" />
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
   <action id="EditorCloneCaretBelow">
-    <keyboard-shortcut first-keystroke="alt down" />
     <keyboard-shortcut first-keystroke="shift alt down" />
   </action>
   <action id="EditorMoveToPageBottom" />
@@ -77,8 +75,6 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt down" />
   </action>
   <action id="MaximizeToolWindow" />
-  <action id="MethodDown" />
-  <action id="MethodUp" />
   <action id="MoveElementLeft" />
   <action id="MoveElementRight" />
   <action id="MoveLineDown" />
