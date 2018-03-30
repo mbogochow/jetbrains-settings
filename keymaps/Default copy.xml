@@ -1,11 +1,4 @@
-<keymap version="1" name="mbogo" parent="$default">
-  <action id="ActivateTerminalToolWindow">
-    <keyboard-shortcut first-keystroke="alt f12" />
-    <keyboard-shortcut first-keystroke="shift ctrl i" />
-  </action>
-  <action id="Arrangement.Rule.Group.Condition.Move.Up" />
-  <action id="Arrangement.Rule.Match.Condition.Move.Down" />
-  <action id="Arrangement.Rule.Match.Condition.Move.Up" />
+<keymap version="1" name="Default copy" parent="$default">
   <action id="Back">
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="alt left" />
@@ -17,11 +10,10 @@
   <action id="Compare.Selected">
     <keyboard-shortcut first-keystroke="shift ctrl alt q" />
   </action>
+  <action id="Console.TableResult.ColumnSortAsc" />
+  <action id="Console.TableResult.ColumnSortDesc" />
+  <action id="Console.TableResult.EditFilterCriteria" />
   <action id="CopyElement" />
-  <action id="EditorAddOrRemoveCaret">
-    <mouse-shortcut keystroke="alt button1" />
-    <mouse-shortcut keystroke="button2" />
-  </action>
   <action id="EditorCloneCaretAbove">
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
@@ -36,7 +28,6 @@
   <action id="EditorNextWordInDifferentHumpsModeWithSelection">
     <keyboard-shortcut first-keystroke="shift ctrl alt right" />
   </action>
-  <action id="EditorPasteFromX11" />
   <action id="EditorPreviousWordInDifferentHumpsMode">
     <keyboard-shortcut first-keystroke="ctrl alt left" />
   </action>
@@ -44,9 +35,6 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt left" />
   </action>
   <action id="EditorSelectWord" />
-  <action id="ExpandRegionRecursively">
-    <keyboard-shortcut first-keystroke="ctrl alt add" />
-  </action>
   <action id="ExpressionTypeInfo" />
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="shift ctrl alt f" />
@@ -65,6 +53,7 @@
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="ctrl b" />
     <mouse-shortcut keystroke="control button1" />
+    <mouse-shortcut keystroke="button2" />
     <keyboard-shortcut first-keystroke="f3" />
   </action>
   <action id="GotoNextError">
@@ -72,9 +61,7 @@
   </action>
   <action id="GotoPreviousError">
     <keyboard-shortcut first-keystroke="ctrl alt page_up" />
-    <keyboard-shortcut first-keystroke="shift ctrl alt down" />
   </action>
-  <action id="MaximizeToolWindow" />
   <action id="MoveElementLeft" />
   <action id="MoveElementRight" />
   <action id="MoveLineDown" />
@@ -93,6 +80,7 @@
     <keyboard-shortcut first-keystroke="ctrl page_up" />
   </action>
   <action id="QuickImplementations">
+    <keyboard-shortcut first-keystroke="shift ctrl i" />
     <keyboard-shortcut first-keystroke="f2" />
   </action>
   <action id="ReformatCode">
@@ -116,10 +104,6 @@
     <keyboard-shortcut first-keystroke="shift f10" />
     <keyboard-shortcut first-keystroke="f5" />
   </action>
-  <action id="ShowContent" />
-  <action id="StringManipulation.AlignToColumns">
-    <keyboard-shortcut first-keystroke="ctrl alt equals" />
-  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
@@ -131,16 +115,4 @@
   </action>
   <action id="TypeHierarchy" />
   <action id="UML.ApplyCurrentLayout" />
-  <action id="Unwrap" />
-  <action id="VcsShowNextChangeMarker" />
-  <action id="ViewNavigationBar">
-    <keyboard-shortcut first-keystroke="shift ctrl delete" />
-  </action>
-  <action id="ViewStatusBar">
-    <keyboard-shortcut first-keystroke="shift ctrl quote" />
-  </action>
-  <action id="ViewToolButtons">
-    <keyboard-shortcut first-keystroke="shift ctrl back_slash" />
-  </action>
-  <action id="XDebugger.MoveWatchDown" />
 </keymap>

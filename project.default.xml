@@ -7,21 +7,9 @@
       <component name="GradleLocalSettings">
         <option name="modificationStamps">
           <map>
-            <entry key="$USER_HOME$/IdeaProjects/master-real-time-search" value="2912884418592" />
-            <entry key="$USER_HOME$/IdeaProjects/newpointrobot" value="2922975324358" />
-            <entry key="$USER_HOME$/IdeaProjects/real-time-search" value="2918055553625" />
-            <entry key="$USER_HOME$/IdeaProjects/visualizer-real-time-search" value="2912890937682" />
-            <entry key="$USER_HOME$/tmp/network_discovery" value="2939425673574" />
-            <entry key="$USER_HOME$/tmp/trunk" value="2939430564896" />
-            <entry key="$USER_HOME$/tmp/trunk/java client" value="2939429167776" />
-            <entry key="$USER_HOME$/workspace/Curtiss-Wright/trunk/OpenHPEC Data Flow/java client" value="2935128200922" />
-            <entry key="$USER_HOME$/workspace/cts/IBTATests" value="2959864279762" />
-            <entry key="$USER_HOME$/workspace/eeprom-command-center/ecc" value="8859809512843" />
-            <entry key="$USER_HOME$/workspace/hpc-pm/java_client" value="2963325908298" />
-            <entry key="$USER_HOME$/workspace/openhpec-data-flow/java client" value="2934347325301" />
-            <entry key="$USER_HOME$/workspace/orig_cts/IBTATests" value="2968300724010" />
-            <entry key="$USER_HOME$/workspace/qsfp-eeprom-monitor/monitor" value="5895343627976" />
-            <entry key="$USER_HOME$/workspace/sfi-util" value="2946368660236" />
+            <entry key="$USER_HOME$/IdeaProjects/real-time-search" value="2913218300341" />
+            <entry key="$USER_HOME$/workspace/hpc-pm/java_client" value="2974039057914" />
+            <entry key="$USER_HOME$/workspace/minecraft/res" value="1501115528707" />
           </map>
         </option>
         <option name="externalProjectsViewState">
@@ -32,24 +20,97 @@
         <option name="PROJECT_PROFILE" />
         <version value="1.0" />
       </component>
-      <component name="MavenImportPreferences">
-        <option name="generalSettings">
-          <MavenGeneralSettings>
-            <option name="mavenHome" value="Bundled (Maven 3)" />
-          </MavenGeneralSettings>
-        </option>
-      </component>
-      <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" default="true" />
       <component name="PropertiesComponent">
-        <property name="last_opened_file_path" value="$USER_HOME$/Downloads/visualvm_138/bin/visualvm" />
         <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-        <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
+      </component>
+      <component name="RunManager">
+        <configuration default="true" type="Applet" factoryName="Applet">
+          <option name="WIDTH" value="400" />
+          <option name="HEIGHT" value="300" />
+          <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+          <module />
+        </configuration>
+        <configuration default="true" type="Application" factoryName="Application">
+          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+          <option name="MAIN_CLASS_NAME" />
+          <option name="VM_PARAMETERS" />
+          <option name="PROGRAM_PARAMETERS" />
+          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+          <option name="ALTERNATIVE_JRE_PATH" />
+          <option name="ENABLE_SWING_INSPECTOR" value="false" />
+          <option name="ENV_VARIABLES" />
+          <option name="PASS_PARENT_ENVS" value="true" />
+          <module name="" />
+          <envs />
+        </configuration>
+        <configuration default="true" type="JUnit" factoryName="JUnit">
+          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+          <module name="" />
+          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+          <option name="ALTERNATIVE_JRE_PATH" />
+          <option name="PACKAGE_NAME" />
+          <option name="MAIN_CLASS_NAME" />
+          <option name="METHOD_NAME" />
+          <option name="TEST_OBJECT" value="class" />
+          <option name="VM_PARAMETERS" value="-ea" />
+          <option name="PARAMETERS" />
+          <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+          <option name="ENV_VARIABLES" />
+          <option name="PASS_PARENT_ENVS" value="true" />
+          <option name="TEST_SEARCH_SCOPE">
+            <value defaultName="singleModule" />
+          </option>
+          <envs />
+          <patterns />
+        </configuration>
+        <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+          <module name="" />
+          <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+          <option name="PROGRAM_PARAMETERS" />
+          <predefined_log_file id="idea.log" enabled="true" />
+        </configuration>
+        <configuration default="true" type="Remote" factoryName="Remote">
+          <option name="USE_SOCKET_TRANSPORT" value="true" />
+          <option name="SERVER_MODE" value="false" />
+          <option name="SHMEM_ADDRESS" value="javadebug" />
+          <option name="HOST" value="localhost" />
+          <option name="PORT" value="5005" />
+        </configuration>
+        <configuration default="true" type="TestNG" factoryName="TestNG">
+          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+          <module name="" />
+          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+          <option name="ALTERNATIVE_JRE_PATH" />
+          <option name="SUITE_NAME" />
+          <option name="PACKAGE_NAME" />
+          <option name="MAIN_CLASS_NAME" />
+          <option name="METHOD_NAME" />
+          <option name="GROUP_NAME" />
+          <option name="TEST_OBJECT" value="CLASS" />
+          <option name="VM_PARAMETERS" value="-ea" />
+          <option name="PARAMETERS" />
+          <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+          <option name="OUTPUT_DIRECTORY" />
+          <option name="ANNOTATION_TYPE" />
+          <option name="ENV_VARIABLES" />
+          <option name="PASS_PARENT_ENVS" value="true" />
+          <option name="TEST_SEARCH_SCOPE">
+            <value defaultName="singleModule" />
+          </option>
+          <option name="USE_DEFAULT_REPORTERS" value="false" />
+          <option name="PROPERTIES_FILE" />
+          <envs />
+          <properties />
+          <listeners />
+        </configuration>
       </component>
       <component name="masterDetails">
         <states>
           <state key="ProjectJDKs.UI">
             <settings>
-              <last-edited>1.7 Oracle</last-edited>
+              <last-edited>1.8</last-edited>
               <splitter-proportions>
                 <option name="proportions">
                   <list>

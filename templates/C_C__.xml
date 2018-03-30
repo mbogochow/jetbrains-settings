@@ -1,0 +1,30 @@
+<templateSet group="C/C++">
+  <template name="fstderr" value="fprintf(stderr, &quot;$SELECTION$\n&quot;);" description="fprintf stderr" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OC_STATEMENT_C" value="true" />
+      <option name="OC_STATEMENT_CPP" value="true" />
+    </context>
+  </template>
+  <template name="cerrline" value="cerr &lt;&lt; $END$ &lt;&lt; endl;" description="cerr followed by endl" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OC_STATEMENT_CPP" value="true" />
+    </context>
+  </template>
+  <template name="coutline" value="cout &lt;&lt; $END$ &lt;&lt; endl;" description="cout followed by endl" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OC_STATEMENT_CPP" value="true" />
+    </context>
+  </template>
+  <template name="main" value="int main(int argc, char **argv)&#10;{&#10;    $END$&#10;    &#10;    return 0;&#10;}" description="main function" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OC_DECLARATION_C" value="true" />
+      <option name="OC_DECLARATION_CPP" value="true" />
+    </context>
+  </template>
+  <template name="syslognotice" value="syslog(LOG_NOTICE, &quot;$END$&quot;);" description="syslog with LOG_NOTICE" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OC_STATEMENT_C" value="true" />
+      <option name="OC_STATEMENT_CPP" value="true" />
+    </context>
+  </template>
+</templateSet>
