@@ -4,7 +4,7 @@
       <ColumnAlignerModel>
         <option name="separators">
           <list>
-            <option value="=" />
+            <option value="=&gt;" />
             <option value="" />
           </list>
         </option>
