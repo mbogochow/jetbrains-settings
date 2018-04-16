@@ -1,30 +1,6 @@
-<code_scheme name="Default copy" version="173">
-  <option name="GENERATE_FINAL_LOCALS" value="true" />
-  <option name="GENERATE_FINAL_PARAMETERS" value="true" />
-  <JavaCodeStyleSettings>
-    <option name="GENERATE_FINAL_LOCALS" value="true" />
-    <option name="GENERATE_FINAL_PARAMETERS" value="true" />
-  </JavaCodeStyleSettings>
-  <XML>
-    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
-  </XML>
+<code_scheme name="Default copy">
   <codeStyleSettings language="JAVA">
-    <option name="BRACE_STYLE" value="2" />
     <option name="CLASS_BRACE_STYLE" value="2" />
     <option name="METHOD_BRACE_STYLE" value="2" />
-    <option name="ELSE_ON_NEW_LINE" value="true" />
-    <option name="CATCH_ON_NEW_LINE" value="true" />
-    <option name="FINALLY_ON_NEW_LINE" value="true" />
-    <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
-    <option name="METHOD_CALL_CHAIN_WRAP" value="5" />
-    <option name="IF_BRACE_FORCE" value="3" />
-    <option name="ENUM_CONSTANTS_WRAP" value="2" />
-    <indentOptions>
-      <option name="SMART_TABS" value="true" />
-      <option name="LABEL_INDENT_ABSOLUTE" value="true" />
-    </indentOptions>
-  </codeStyleSettings>
-  <codeStyleSettings language="XML">
-    <option name="RIGHT_MARGIN" value="300" />
   </codeStyleSettings>
 </code_scheme>
