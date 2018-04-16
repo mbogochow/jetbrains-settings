@@ -1,8 +1,4 @@
-<keymap version="1" name="Default copy" parent="Default for XWin">
-  <action id="ActivateTerminalToolWindow">
-    <keyboard-shortcut first-keystroke="alt f12" />
-    <keyboard-shortcut first-keystroke="shift ctrl i" />
-  </action>
+<keymap version="1" name="Default copy" parent="$default">
   <action id="Back">
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="alt left" />
@@ -14,38 +10,31 @@
   <action id="Compare.Selected">
     <keyboard-shortcut first-keystroke="shift ctrl alt q" />
   </action>
+  <action id="Console.TableResult.ColumnSortAsc" />
+  <action id="Console.TableResult.ColumnSortDesc" />
+  <action id="Console.TableResult.EditFilterCriteria" />
   <action id="CopyElement" />
-  <action id="EditorAddOrRemoveCaret">
-    <mouse-shortcut keystroke="shift alt button1" />
-    <mouse-shortcut keystroke="button2" />
-  </action>
   <action id="EditorCloneCaretAbove">
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
   <action id="EditorCloneCaretBelow">
     <keyboard-shortcut first-keystroke="shift alt down" />
   </action>
+  <action id="EditorMoveToPageBottom" />
+  <action id="EditorMoveToPageTop" />
   <action id="EditorNextWordInDifferentHumpsMode">
-    <keyboard-shortcut first-keystroke="ctrl kp_right" />
     <keyboard-shortcut first-keystroke="ctrl alt right" />
   </action>
   <action id="EditorNextWordInDifferentHumpsModeWithSelection">
-    <keyboard-shortcut first-keystroke="shift ctrl kp_right" />
     <keyboard-shortcut first-keystroke="shift ctrl alt right" />
   </action>
-  <action id="EditorPasteFromX11" />
   <action id="EditorPreviousWordInDifferentHumpsMode">
-    <keyboard-shortcut first-keystroke="ctrl kp_left" />
     <keyboard-shortcut first-keystroke="ctrl alt left" />
   </action>
   <action id="EditorPreviousWordInDifferentHumpsModeWithSelection">
-    <keyboard-shortcut first-keystroke="shift ctrl kp_left" />
     <keyboard-shortcut first-keystroke="shift ctrl alt left" />
   </action>
   <action id="EditorSelectWord" />
-  <action id="ExpandRegionRecursively">
-    <keyboard-shortcut first-keystroke="ctrl alt add" />
-  </action>
   <action id="ExpressionTypeInfo" />
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="shift ctrl alt f" />
@@ -64,27 +53,34 @@
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="ctrl b" />
     <mouse-shortcut keystroke="control button1" />
+    <mouse-shortcut keystroke="button2" />
     <keyboard-shortcut first-keystroke="f3" />
   </action>
   <action id="GotoNextError">
-    <keyboard-shortcut first-keystroke="shift ctrl alt down" />
+    <keyboard-shortcut first-keystroke="ctrl alt page_down" />
   </action>
   <action id="GotoPreviousError">
-    <keyboard-shortcut first-keystroke="shift f2" />
-    <keyboard-shortcut first-keystroke="shift ctrl alt up" />
+    <keyboard-shortcut first-keystroke="ctrl alt page_up" />
   </action>
   <action id="MoveElementLeft" />
   <action id="MoveElementRight" />
   <action id="MoveLineDown" />
   <action id="MoveLineUp" />
-  <action id="NextParameter" />
-  <action id="NextTab" />
-  <action id="NextTemplateParameter" />
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="alt page_down" />
+    <keyboard-shortcut first-keystroke="ctrl page_down" />
+  </action>
+  <action id="OptimizeImports">
+    <keyboard-shortcut first-keystroke="ctrl alt o" />
+    <keyboard-shortcut first-keystroke="shift ctrl o" />
+  </action>
   <action id="PopupHector" />
-  <action id="PrevParameter" />
-  <action id="PrevTemplateParameter" />
-  <action id="PreviousTab" />
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="alt page_up" />
+    <keyboard-shortcut first-keystroke="ctrl page_up" />
+  </action>
   <action id="QuickImplementations">
+    <keyboard-shortcut first-keystroke="shift ctrl i" />
     <keyboard-shortcut first-keystroke="f2" />
   </action>
   <action id="ReformatCode">
@@ -108,14 +104,8 @@
     <keyboard-shortcut first-keystroke="shift f10" />
     <keyboard-shortcut first-keystroke="f5" />
   </action>
-  <action id="StringManipulation.AlignToColumns">
-    <keyboard-shortcut first-keystroke="ctrl alt equals" />
-  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
-  </action>
-  <action id="SwitchDown">
-    <keyboard-shortcut first-keystroke="shift alt down" />
   </action>
   <action id="SwitchLeft">
     <keyboard-shortcut first-keystroke="shift alt left" />
@@ -123,20 +113,6 @@
   <action id="SwitchRight">
     <keyboard-shortcut first-keystroke="shift alt right" />
   </action>
-  <action id="SwitchUp">
-    <keyboard-shortcut first-keystroke="shift alt up" />
-  </action>
-  <action id="ToggleBookmark0" />
-  <action id="ToggleBookmark1" />
-  <action id="ToggleBookmark2" />
-  <action id="ToggleBookmark3" />
-  <action id="ToggleBookmark4" />
-  <action id="ToggleBookmark5" />
-  <action id="ToggleBookmark6" />
-  <action id="ToggleBookmark7" />
-  <action id="ToggleBookmark8" />
-  <action id="ToggleBookmark9" />
   <action id="TypeHierarchy" />
-  <action id="VcsShowNextChangeMarker" />
-  <action id="VcsShowPrevChangeMarker" />
+  <action id="UML.ApplyCurrentLayout" />
 </keymap>

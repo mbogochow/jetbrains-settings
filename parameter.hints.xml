@@ -1,9 +1,5 @@
 <application>
   <component name="ParameterNameHintsSettings">
-    <blacklists>
-      <blacklist language="Java">
-        <added pattern="com.soft_forge.common.file.FileUtil.writeTo(path,content,append)" />
-      </blacklist>
-    </blacklists>
+    <blacklists />
   </component>
 </application>
