@@ -2,11 +2,11 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="script-test_00" type="JSON" />
-      <mapping ext="ab" type="PLAIN_TEXT" />
-      <mapping ext="mat" type="PLAIN_TEXT" />
-      <mapping ext="obj" type="PLAIN_TEXT" />
-      <mapping ext="vw" type="PLAIN_TEXT" />
       <mapping ext="pr" type="PLAIN_TEXT" />
+      <mapping ext="obj" type="PLAIN_TEXT" />
+      <mapping ext="ab" type="PLAIN_TEXT" />
+      <mapping ext="vw" type="PLAIN_TEXT" />
+      <mapping ext="mat" type="PLAIN_TEXT" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
