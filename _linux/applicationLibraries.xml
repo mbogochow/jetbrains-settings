@@ -134,13 +134,6 @@
       </SOURCES>
     </library>
     <library name="quill" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdn.quilljs.com_latest_quill.js" />
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.quilljs.com_latest_quill.js" />
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_quill_1.3.6_quill.js" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdn.quilljs.com_latest_quill.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.quilljs.com_latest_quill.js" />
