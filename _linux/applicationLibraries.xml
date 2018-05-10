@@ -17,6 +17,19 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="datatables" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.datatables.net_v_bs4_dt-1.10.16_fc-3.2.4_fh-3.1.3_r-2.2.1_datatables.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.datatables.net_v_dt_dt-1.10.16_fc-3.2.4_fh-3.1.3_r-2.2.1_datatables.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.datatables.net_v_bs4_dt-1.10.16_fc-3.2.4_fh-3.1.3_r-2.2.1_datatables.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.datatables.net_v_dt_dt-1.10.16_fc-3.2.4_fh-3.1.3_r-2.2.1_datatables.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="jquery-3.2.1" type="javaScript">
       <properties>
         <option name="frameworkName" value="jQuery" />
@@ -135,13 +148,6 @@
       </SOURCES>
     </library>
     <library name="quill" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdn.quilljs.com_latest_quill.js" />
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.quilljs.com_latest_quill.js" />
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_quill_1.3.6_quill.js" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdn.quilljs.com_latest_quill.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.quilljs.com_latest_quill.js" />
