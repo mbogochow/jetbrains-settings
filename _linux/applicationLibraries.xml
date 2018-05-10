@@ -20,10 +20,12 @@
     <library name="datatables" type="javaScript">
       <properties>
         <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.datatables.net_v_bs4_dt-1.10.16_fc-3.2.4_fh-3.1.3_r-2.2.1_datatables.js" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.datatables.net_v_dt_dt-1.10.16_fc-3.2.4_fh-3.1.3_r-2.2.1_datatables.js" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.datatables.net_v_bs4_dt-1.10.16_fc-3.2.4_fh-3.1.3_r-2.2.1_datatables.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.datatables.net_v_dt_dt-1.10.16_fc-3.2.4_fh-3.1.3_r-2.2.1_datatables.js" />
       </CLASSES>
       <SOURCES />
