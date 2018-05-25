@@ -2,7 +2,6 @@
   <option name="GENERATE_FINAL_LOCALS" value="true" />
   <option name="GENERATE_FINAL_PARAMETERS" value="true" />
   <SqlCodeStyleSettings>
-    <option name="KEYWORD_CASE" value="2" />
     <option name="TYPE_CASE" value="2" />
   </SqlCodeStyleSettings>
   <XML>
@@ -18,7 +17,6 @@
     <option name="IF_BRACE_FORCE" value="3" />
     <option name="ENUM_CONSTANTS_WRAP" value="2" />
     <indentOptions>
-      <option name="USE_TAB_CHARACTER" value="true" />
       <option name="SMART_TABS" value="true" />
       <option name="LABEL_INDENT_ABSOLUTE" value="true" />
     </indentOptions>
