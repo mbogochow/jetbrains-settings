@@ -16,7 +16,7 @@
   <tool name="Open in Chrome" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="/usr/bin/google-chrome-stable" />
-      <option name="PARAMETERS" value="$USER_HOME$/workspace/soft-forge/denali/knowledgebase/knowledgebase.html" />
+      <option name="PARAMETERS" value="$FilePath$" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
