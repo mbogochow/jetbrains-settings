@@ -181,5 +181,16 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="vuejs-datatable" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_vuejs-datatable@1.5.3_dist_vuejs-datatable.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_vuejs-datatable@1.5.3_dist_vuejs-datatable.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
   </component>
 </application>
